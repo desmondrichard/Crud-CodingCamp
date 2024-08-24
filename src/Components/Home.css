@@ -1,0 +1,12 @@
+.homeApp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.homeChild{
+    width:700px;
+    border:2px inset grey;
+}
